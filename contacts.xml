@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+    <person>
+        <firstname>John</firstname>
+        <lastname>Doe</lastname>
+        <city>Chandler</city>
+        <street>1966 Cambridge Court</street>
+        <phone>+1 237-382-2364</phone>
+        <email>john.doe@gmail.com</email>
+        <picture>images/john.jpg</picture>
+    </person>
+
+    <person>
+        <firstname>Jane</firstname>
+        <lastname>Doe</lastname>
+        <city>Neuchatel</city>
+        <street>Emile Argand 12</street>
+        <phone>+41 79.783.4795</phone>
+        <email>jane.doe@unine.ch</email>
+        <picture>images/img-2.jpg</picture>
+    </person>
+
+    <person>
+        <firstname>Lydie</firstname>
+        <lastname>Colbert</lastname>
+        <city>Paris</city>
+        <street>7 Rue de la Pompe</street>
+        <phone>+33 04.09.53.41.48</phone>
+        <email>lydie.colbert@romany.fr</email>
+        <picture>images/img-3.jpg</picture>
+    </person>
+
+    <person>
+        <firstname>Cindy</firstname>
+        <lastname>Hofer</lastname>
+        <city>Lausanne</city>
+        <street>Place de la Palud 2</street>
+        <phone>+41 123-456-749</phone>
+        <email>cindy.hofer@epfl.ch</email>
+        <picture>images/img-3</picture>
+    </person>
+
+
+</contacts>
